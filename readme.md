@@ -1,0 +1,1 @@
+robot -d results -i Smoke Tests/Tags.robo
