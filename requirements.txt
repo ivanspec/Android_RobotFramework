@@ -1,0 +1,3 @@
+robotframework >=5.0
+robotframework-appiumlibrary >=1.6.3
+robotframework-pabot >=2.5.2
